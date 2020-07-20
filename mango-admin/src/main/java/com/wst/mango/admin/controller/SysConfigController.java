@@ -23,6 +23,7 @@ import com.wst.mango.core.page.PageRequest;
  */
 @RestController
 @RequestMapping("config")
+
 public class SysConfigController {
 
 	@Autowired
