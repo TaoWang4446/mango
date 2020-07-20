@@ -1,0 +1,14 @@
+# tomcat
+server:
+  port: 8002
+spring:
+  application:
+    name: mango-backup
+# backup datasource
+mango:
+  backup:
+    datasource:
+      host: 192.144.226.54
+      userName: root
+      password: tomtom
+      database: mango
