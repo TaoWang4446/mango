@@ -4,7 +4,7 @@ import java.util.UUID;
 
 /**
  * 密码工具类
- * @author Louis
+ * @author Wst
  * @date Sep 1, 2018
  */
 public class PasswordUtils {

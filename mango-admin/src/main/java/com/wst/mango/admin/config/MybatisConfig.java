@@ -11,7 +11,7 @@ import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 
 /**
  * Mybatis配置
- * @author Louis
+ * @author Wst
  * @date Jan 11, 2019
  */
 @Configuration

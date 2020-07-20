@@ -20,7 +20,7 @@ import com.alibaba.druid.support.http.WebStatFilter;
 
 /**
  * Druid数据源配置
- * @author Louis
+ * @author Wst
  * @date Jan 12, 2019
  */
 @Configuration

@@ -10,7 +10,7 @@ import com.google.code.kaptcha.util.Config;
 
 /**
  * 验证码配置
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 @Configuration

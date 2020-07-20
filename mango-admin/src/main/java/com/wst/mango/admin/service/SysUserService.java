@@ -11,7 +11,7 @@ import com.wst.mango.core.service.CurdService;
 
 /**
  * 用户管理
- * @author Louis
+ * @author Wst
  * @date Jan 13, 2019
  */
 public interface SysUserService extends CurdService<SysUser> {

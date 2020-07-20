@@ -2,7 +2,7 @@ package com.wst.mango.admin.vo;
 
 /**
  * 登录接口封装对象
- * @author Louis
+ * @author Wst
  * @date Oct 29, 2018
  */
 public class LoginBean {

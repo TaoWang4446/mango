@@ -7,7 +7,7 @@ import com.wst.mango.core.service.CurdService;
 
 /**
  * 菜单管理
- * @author Louis
+ * @author Wst
  * @date Jan 13, 2019
  */
 public interface SysMenuService extends CurdService<SysMenu> {

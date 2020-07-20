@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 
 /**
  * 密码加密
- * @author Louis
+ * @author Wst
  * @date Jan 13, 2019
  */
 public class PasswordEncoder {

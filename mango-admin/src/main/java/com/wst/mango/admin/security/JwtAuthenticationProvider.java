@@ -11,7 +11,7 @@ import com.wst.mango.admin.util.PasswordEncoder;
 
 /**
  * 身份验证提供者
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 public class JwtAuthenticationProvider extends DaoAuthenticationProvider {

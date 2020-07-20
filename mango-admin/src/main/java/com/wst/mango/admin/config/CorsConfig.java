@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * 跨域配置
- * @author Louis
+ * @author Wst
  * @date Jan 12, 2019
  */
 @Configuration

@@ -2,7 +2,7 @@ package com.wst.mango.admin.constant;
 
 /**
  * 常量管理
- * @author Louis
+ * @author Wst
  * @date Jan 13, 2019
  */
 public interface SysConstants {

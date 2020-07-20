@@ -3,7 +3,7 @@ import org.springframework.security.core.GrantedAuthority;
 
 /**
  * 权限封装
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 public class GrantedAuthorityImpl implements GrantedAuthority {

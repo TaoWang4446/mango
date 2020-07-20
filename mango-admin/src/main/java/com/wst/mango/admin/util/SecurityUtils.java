@@ -12,7 +12,7 @@ import com.wst.mango.admin.security.JwtAuthenticatioToken;
 
 /**
  * Security相关操作
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 public class SecurityUtils {

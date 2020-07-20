@@ -7,7 +7,7 @@ import org.springframework.security.core.GrantedAuthority;
 
 /**
  * 自定义令牌对象
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 public class JwtAuthenticatioToken extends UsernamePasswordAuthenticationToken {

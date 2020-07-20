@@ -29,7 +29,7 @@ import com.wst.mango.core.http.HttpResult;
 
 /**
  * 登录控制器
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 @RestController

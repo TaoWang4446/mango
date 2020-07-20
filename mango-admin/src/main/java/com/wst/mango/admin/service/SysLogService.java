@@ -5,7 +5,7 @@ import com.wst.mango.core.service.CurdService;
 
 /**
  * 操作日志
- * @author Louis
+ * @author Wst
  * @date Jan 13, 2019
  */
 public interface SysLogService extends CurdService<SysLog> {

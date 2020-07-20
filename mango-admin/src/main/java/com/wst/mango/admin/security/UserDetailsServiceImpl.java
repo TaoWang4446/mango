@@ -15,7 +15,7 @@ import com.wst.mango.admin.service.SysUserService;
 
 /**
  * 用户登录认证信息查询
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 @Service

@@ -19,7 +19,7 @@ import com.wst.mango.admin.security.JwtAuthenticationProvider;
 
 /**
  * Spring Security配置
- * @author Louis
+ * @author Wst
  * @date Jan 14, 2019
  */
 @Configuration
