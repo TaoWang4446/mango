@@ -40,6 +40,8 @@
         <module>mango-common</module>
         <module>mango-core</module>
         <module>mango-admin</module>
+        <module>mango-backup</module>
+        <module>mango-monitor</module>
     </modules>
 
 </project>

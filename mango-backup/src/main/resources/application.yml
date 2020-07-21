@@ -2,6 +2,10 @@
 server:
   port: 8002
 spring:
+  boot:
+    admin:
+      client:
+        url: "http://localhost:8000"
   application:
     name: mango-backup
 # backup datasource
@@ -12,3 +16,8 @@ mango:
       userName: root
       password: tomtom
       database: mango
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

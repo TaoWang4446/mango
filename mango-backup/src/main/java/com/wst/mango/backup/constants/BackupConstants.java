@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * 常量类
- * @author Louis
+ * @author Wst
  * @date Jan 15, 2019
  */
 public interface BackupConstants {

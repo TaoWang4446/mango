@@ -2,7 +2,7 @@ package com.wst.mango.backup.util;
 
 /**
  * HTTP结果封装
- * @author Louis
+ * @author Wst
  * @date Jan 15, 2019
  */
 public class HttpResult {

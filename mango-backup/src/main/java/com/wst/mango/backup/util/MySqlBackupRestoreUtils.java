@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * MySQL备份还原工具类
- * @author Louis
+ * @author Wst
  * @date Jan 15, 2019
  */
 public class MySqlBackupRestoreUtils {

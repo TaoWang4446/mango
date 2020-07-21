@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * MySql命令行备份恢复服务
- * @author Louis
+ * @author Wst
  * @date Jan 15, 2019
  */
 public interface MysqlBackupService {
