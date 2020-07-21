@@ -26,3 +26,6 @@ management:
 mango-consumer:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule #随机分配
+feign:
+  hystrix:
+    enabled: true
