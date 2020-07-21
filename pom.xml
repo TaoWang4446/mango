@@ -47,6 +47,7 @@
         <module>mango-producer2</module>
         <module>mango-hystrix</module>
         <module>mango-zuul</module>
+        <module>mango-zipkin</module>
     </modules>
 
 </project>
