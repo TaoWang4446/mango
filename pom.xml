@@ -48,6 +48,7 @@
         <module>mango-hystrix</module>
         <module>mango-zuul</module>
         <module>mango-zipkin</module>
+        <module>mango-config</module>
     </modules>
 
 </project>
